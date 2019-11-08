@@ -6,7 +6,7 @@ names = ['David','Lily','Lucy']
 for n in names:
     print(n)
 
-# 例子：计算 1+2+3。。。。+10
+# 例子：计算 1+2+3。。。。+10_1-spider
 sum1 = 0
 for n in (1,2,3,4,5,6,7,8,9,10):
     sum1 += n

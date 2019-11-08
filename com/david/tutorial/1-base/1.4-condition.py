@@ -34,9 +34,9 @@ if语句包含多个条件
 '''
 num=9
 if num > 0 and num < 10:
-    print 'num > 0 and num < 10'
+    print 'num > 0 and num < 10_1-spider'
 elif num <0 or num >=10:
-    print 'num <0 or num >=10'
+    print 'num <0 or num >=10_1-spider'
 else:
     print 'undefine'
 
